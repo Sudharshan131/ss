@@ -1,0 +1,75 @@
+#img1 {
+    border-radius: 200px;
+    height: 145px;
+    width: 180px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border: 1px solid white;
+  
+}
+#row1{
+   background-color: #DEB67A;
+   width: 900px;
+   height: 200px;
+}
+#col2{
+   margin-left: 100px;
+   text-align: center;
+   margin-top: 50px;
+}
+#name{
+   font-size: 40px;
+}
+#web{
+   font-size: 30px;
+}
+#green{
+   width: 280px;
+   height: 968px;
+   background-color: #248355;
+  margin-left: 30px;
+  
+}
+#rr{
+   width: 20px;
+   height: 30px;
+   background-color: #248355;
+   margin-left: 30px;
+}
+#con{
+   border: 2px solid black;
+   height: 1000px;
+   width: 900px;
+background-color: #D9D9D9;
+}
+#pro{
+   margin-bottom: 90px;
+   color: white;
+   padding-left: 30PX;
+}
+#pro1{
+   font-style: italic;
+}
+#contact{
+   padding-bottom: 40px;
+   font-style: italic;
+   color: white;
+   padding-left: 30PX;
+}
+#edu{
+   padding-top: 60px;
+}
+#lan{
+   padding-top: 20px;
+}
+#com{
+   padding-top: 20px;
+
+}
+#vol{
+   padding-top: 20px;
+   padding-left: 30px;
+}
+#uni{
+   padding-left: 10px;
+}
